@@ -1,0 +1,6 @@
+com\emergentes\te_cabeceras\RespCSV.class
+com\emergentes\te_cabeceras\RespHTML.class
+com\emergentes\te_cabeceras\RespJSON.class
+com\emergentes\te_cabeceras\RespPDF.class
+com\emergentes\te_cabeceras\RespXLS.class
+com\emergentes\te_cabeceras\RespXML.class
